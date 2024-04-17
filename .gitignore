@@ -1,0 +1,7 @@
+.DS_Store
+__azurite_db_table_.json
+README.md
+__pycache__
+.env
+.venv
+.terraform
